@@ -1,4 +1,4 @@
-Herramienta desarrollada para realizar dump de lsass utiliza la tecnica dump race condition con seclogon, el dump se encripta en memoria y se guarda encriptado en disco para evadir la deteccion.
+Herramienta desarrollada para realizar el volcado de LSASS que utiliza la técnica de carrera de condiciones (race condition) con SecLogon. El volcado se encripta en memoria y se guarda en disco en un formato encriptado para evadir la detección.
 
 
 ![image](https://github.com/zer0antisec/LsaDumpRace/assets/20486087/ac881a8f-7c6e-4a37-acf1-b2e062de4136)
